@@ -8,6 +8,7 @@ body{
     background-color: #97baca;
     position: relative;
     width: 100%;
+    
     /* margin-top: 17%; */
     /* padding: 20px; */
     /* padding-top: 30px; */
@@ -27,15 +28,16 @@ body{
     color: black;
     padding-bottom: 10px;
 }
-h1{
+
+.my-name{
+    font-size: 5ch;
     margin: 0;
     padding-top: 100px;
+    font-family: 'Sacramento',cursive;
 }
-.my-name{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-top: 4rem;
+.mountain{
+    width: 70%;
 }
-
 .bottom-cloud{
     position: absolute;
     top: 35%;
